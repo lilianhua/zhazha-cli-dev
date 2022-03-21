@@ -24,5 +24,6 @@
   },
   "dependencies": {
     "@zhazha-cli-dev/utils": "^1.0.0"
-  }
+  },
+  "gitHead": "fad8196ee12a0c4efae258635c656549ba65f63b"
 }
