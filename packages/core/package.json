@@ -1,6 +1,6 @@
 {
   "name": "@zhazha-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "zhazha-cli-dev core",
   "author": "wangqi <850356875@qq.com>",
   "homepage": "",
@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@zhazha-cli-dev/utils": "^1.0.0"
+    "@zhazha-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "ae681bea31ff40433d3a2df3dbce048a7b95bb39"
 }
