@@ -17,7 +17,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org"
+    "registry": "https://registry.npm.taobao.org",
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
@@ -25,5 +26,5 @@
   "dependencies": {
     "@zhazha-cli-dev/utils": "^1.0.0"
   },
-  "gitHead": "fad8196ee12a0c4efae258635c656549ba65f63b"
+  "gitHead": "ae681bea31ff40433d3a2df3dbce048a7b95bb39"
 }
