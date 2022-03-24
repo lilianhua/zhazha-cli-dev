@@ -23,10 +23,12 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@zhazha-cli-dev/utils": "file:../../utils/utils",
     "@zhazha-cli-dev/log": "file:../../utils/log",
+    "@zhazha-cli-dev/utils": "file:../../utils/utils",
+    "colors": "^1.4.0",
     "import-local": "^3.1.0",
-    "npmlog": "^6.0.1"
+    "npmlog": "^6.0.1",
+    "semver": "^7.3.5"
   },
   "gitHead": "55bc818ea61005c700b94c18600ac25acc9245a3"
 }
