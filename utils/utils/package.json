@@ -19,5 +19,8 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "55bc818ea61005c700b94c18600ac25acc9245a3"
+  "gitHead": "55bc818ea61005c700b94c18600ac25acc9245a3",
+  "dependencies": {
+    "npmlog": "^6.0.1"
+  }
 }
